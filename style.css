@@ -1,0 +1,23 @@
+button {
+  width: 260px;
+  height: 100px;
+  background-color: rgb(6, 207, 6);
+}
+
+.button {
+  font-size: 6vh;
+}
+
+#box {
+  width: 1150px;
+  height: 100px;
+  margin-left: 0.35em;
+  background-color: rgb(255, 189, 47);
+  font-size: 8vh;
+}
+
+.block {
+  width: 1200px;
+  margin-left: 9em;
+  margin-top: 5%;
+}
