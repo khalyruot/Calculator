@@ -2,8 +2,9 @@
 var a = '';
 
 function myFunction1() {
-    document.getElementById("box").value = 1;
-    var a = 1; 
+    var a = document.getElementById("box")
+    a.value = 1; 
+    alert(a);
 }
-myFunction1()
 
+myFunction1
